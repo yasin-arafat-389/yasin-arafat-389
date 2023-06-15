@@ -1,4 +1,4 @@
-![logo](https://github.com/yasin-arafat-389/yasin-arafat-389/blob/main/creative-github-cover.png)
+![logo](https://github.com/yasin-arafat-389/yasin-arafat-389/blob/main/github-cover.png)
 <h1 align="center">Hi 👋, I'm Yasin Arafat</h1>
 <h3 align="center">A Full Stack Web Developer 🌐</h3>
 
