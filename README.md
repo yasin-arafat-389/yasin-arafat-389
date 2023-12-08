@@ -10,6 +10,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasin-arafat-389&theme=bear)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasin-arafat-389&theme=bear)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
