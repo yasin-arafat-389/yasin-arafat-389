@@ -9,7 +9,7 @@
 - ⚡ Fun fact **I can turn coffee into code faster than you can say JavaScript!**
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=yasin-arafat-389&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 
