@@ -16,6 +16,8 @@
 
 <h2 align="left">Stats:</h2>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasin-arafat-389&theme=radical&hide_border=true&card_width=700)](https://git.io/streak-stats)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasin-arafat-389&theme=bear)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasin-arafat-389&theme=bear)     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasin-arafat-389&theme=bear)
