@@ -27,7 +27,7 @@
 
 <h1 align="left">GitHub Stats:</h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasin-arafat-389&theme=radical&hide_border=true&card_width=700)](https://git.io/streak-stats)
+![yasin-arafat-389's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasin-arafat-389&theme=radical&hide_border=true)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasin-arafat-389&theme=bear)
 
