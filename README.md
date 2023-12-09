@@ -17,7 +17,15 @@
 
 <br />
 
-<h1 align="left">Stats:</h1>
+
+<h1 align="left" >Connect with me:</h1>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/arafat410/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin389/) 
+
+<br/>
+
+
+<h1 align="left">GitHub Stats:</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasin-arafat-389&theme=radical&hide_border=true&card_width=700)](https://git.io/streak-stats)
 
