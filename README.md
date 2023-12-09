@@ -8,11 +8,14 @@
 
 - 💬 Ask me about **React JS, JavaScript, Tailwind CSS**
 
+<br />
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left" >Languages and Tools:</h2>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,bootstrap,postman,firebase)](https://skillicons.dev)
+
+<br />
 
 <h2 align="left">Stats:</h2>
 
