@@ -10,14 +10,14 @@
 
 <br />
 
-<h2 align="left" >Languages and Tools:</h2>
+<h1 align="left" >Languages and Tools:</h1>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,bootstrap,postman,firebase)](https://skillicons.dev)
 
 <br />
 
-<h2 align="left">Stats:</h2>
+<h1 align="left">Stats:</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasin-arafat-389&theme=radical&hide_border=true&card_width=700)](https://git.io/streak-stats)
 
