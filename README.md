@@ -13,7 +13,7 @@
 <h1 align="left" >Languages and Tools:</h1>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,postman,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,postman,firebase)](https://skillicons.dev)
 
 <br />
 
