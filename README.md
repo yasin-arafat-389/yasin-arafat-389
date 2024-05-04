@@ -10,12 +10,16 @@
 
 <br />
 
-<h1 align="left" >Languages and Tools:</h1>
+<h1 align="left" >Frontend Technologies:</h1>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,postman,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,redux,tailwind,bootstrap)](https://skillicons.dev)
 
-<br />
+<h1 align="left" >Backend Technologies:</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+
+<br/>
 
 
 
