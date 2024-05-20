@@ -17,7 +17,7 @@
 
 <h1 align="left" >Backend Technologies:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb)](https://skillicons.dev)
 
 <br/>
 
