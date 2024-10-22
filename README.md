@@ -1,6 +1,6 @@
 ![logo](https://github.com/yasin-arafat-389/yasin-arafat-389/blob/main/github-cover-image.png)
 <h1 align="center">Hi 👋, I'm Yasin Arafat</h1>
-<h3 align="center">A Full Stack Web Developer 🌐</h3>
+<h3 align="center">An Aspiring Full Stack Web Developer 🌐</h3>
 
 - 🔭 I’m currently working with **React, Node, Express, MongoDB**
 
