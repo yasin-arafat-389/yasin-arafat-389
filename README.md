@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yasin Arafat</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer 🌐</h3>
 
-- 🔭 I’m currently working with **React, Node, Express, MongoDB**
+- 🔭 I’m currently working with **React, Node, Express, MongoDB, PostgreSQL**
 
 - 👯 I’m looking to collaborate on **challenging projects.**
 
