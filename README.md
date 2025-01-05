@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yasin Arafat</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer 🌐</h3>
 
-- 🔭 I’m currently working with **React, Node, Express, MongoDB, PostgreSQL**
+- 🔭 I’m currently working with **Next JS, Node JS, Express, MongoDB, PostgreSQL**
 
 - 👯 I’m looking to collaborate on **challenging projects.**
 
@@ -20,13 +20,6 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,postgres,prisma)](https://skillicons.dev)
 
 <br/>
-
-<h1 align="left">Current Stats:</h1>
-
-<br />
-<p>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=yasin-arafat-389&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
 
 <h1 align="left">GitHub Stats:</h1>
 
